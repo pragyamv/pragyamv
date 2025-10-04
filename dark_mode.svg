@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="460px" font-size="16px">
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,monospace" width="985px" height="500px" font-size="14.5px">
 <style>
 @font-face {
 src: local('Consolas'), local('Consolas Bold');
@@ -15,7 +15,7 @@ size-adjust: 109%;
 .cc {fill: #616e7f;}
 text, tspan {white-space: pre;}
 </style>
-<rect width="985px" height="460px" fill="#161b22" rx="15"/>
+<rect width="985px" height="500px" fill="#161b22" rx="15"/>
 <text x="15" y="30" fill="#c9d1d9" class="ascii">
 <tspan x="15" y="30">                          </tspan>
 <tspan x="15" y="50">                    </tspan>
@@ -44,26 +44,28 @@ text, tspan {white-space: pre;}
 <tspan x="15" y="510">           </tspan>
 </text>
 <text x="390" y="30" fill="#c9d1d9">
-<tspan x="250" y="30">Hi, i'm Pragya :) </tspan> ----------------------------------------------------------------
-<tspan x="250" y="50" class="cc">. </tspan>
-<tspan x="250" y="70" class="cc">. </tspan><tspan class="key">College </tspan>:<tspan class="cc"> </tspan><tspan class="value"> AIT, Chikmagalur</tspan>
-<tspan x="250" y="90" class="cc">. </tspan><tspan class="key">Work </tspan>:<tspan class="cc" id="age_data_dots"> </tspan><tspan class="value" id="age_data"> AGILE Transformation Academy</tspan>
-<tspan x="250" y="110" class="cc">. </tspan>
-<tspan x="250" y="130" class="cc">. </tspan><tspan class="key">Languages</tspan>:<tspan class="cc"> </tspan><tspan class="value"> HTML · CSS · JavaScript · Python · Java · C · C++</tspan>
-<tspan x="250" y="150" class="cc">. </tspan><tspan class="key">AI/ML </tspan>:<tspan class="cc"> </tspan><tspan class="value"> Pytorch · Pandas · Seaborn · Scikit_learn · Matplotlib</tspan>
-<tspan x="250" y="170" class="cc">. </tspan><tspan class="key">Database </tspan>:<tspan class="cc"> </tspan><tspan class="value"> MySQL · PostgreSQL · MongoDB · Pinecone</tspan>
-<!---<tspan x="250" y="190" class="cc">. </tspan><tspan class="key">Automation </tspan>:<tspan class="cc"> </tspan><tspan class="value"> n8n</tspan>-->
-<tspan x="250" y="210" class="cc">. </tspan><tspan class="key">Tools </tspan>:<tspan class="cc"> </tspan><tspan class="value"> Git · n8n · Linux</tspan>
-<tspan x="250" y="230" class="cc">. </tspan>
-<tspan x="250" y="250">-</tspan> --------------------------------------------------------------------------------
-<tspan x="250" y="270" class="cc">. </tspan>
-<tspan x="250" y="290" class="cc">. </tspan><tspan class="key">Currently working on </tspan>:<tspan class="cc"> </tspan><tspan class="value"> Scalable AI workflows &amp; agents</tspan>
-<tspan x="250" y="310" class="cc">. </tspan><tspan class="key">Currently learning </tspan>:<tspan class="cc"> </tspan><tspan class="value"> Building backend systems </tspan>
-<tspan x="250" y="330" class="cc">. </tspan>
-<tspan x="250" y="350">- Contact me </tspan> --------------------------------------------------------------------
-<tspan x="250" y="370" class="cc">. </tspan>
-<tspan x="250" y="390" class="cc">. </tspan><tspan class="key">Email </tspan>:<tspan class="cc"> </tspan><tspan class="value"> pragyamvikram@gmail.com</tspan>
-<tspan x="250" y="410" class="cc">. </tspan><tspan class="key">LinkedIn </tspan>:<tspan class="cc"> </tspan><tspan class="value"> pragyamv</tspan>
-<tspan x="250" y="430" class="cc">. </tspan><tspan class="key">Twitter </tspan>:<tspan class="cc"> </tspan><tspan class="value"> pragyamv_</tspan>
+<tspan x="220" y="30">Hi, i'm Pragya :) </tspan> ----------------------------------------------------------------
+<tspan x="220" y="50" class="cc">. </tspan>
+<tspan x="220" y="70" class="cc">. </tspan><tspan class="key">College </tspan>:<tspan class="cc"> </tspan><tspan class="value"> AIT, Chikmagalur</tspan>
+<tspan x="220" y="90" class="cc">. </tspan><tspan class="key">Work </tspan>:<tspan class="cc" id="age_data_dots"> </tspan><tspan class="value" id="age_data"> AGILE Transformation Academy</tspan>
+<tspan x="220" y="110" class="cc">. </tspan>
+<tspan x="220" y="130" class="cc">. </tspan><tspan class="key">Languages</tspan>:<tspan class="cc"> </tspan><tspan class="value"> Python · JavaScript · Java · C · C++</tspan>
+<tspan x="220" y="150" class="cc">. </tspan><tspan class="key">Frameworks &amp; Libraries </tspan>:<tspan class="cc"> </tspan><tspan class="value"> Django · Pytorch · Pandas · Seaborn · Scikit_learn</tspan>
+<tspan x="220" y="170" class="cc">. </tspan><tspan class="cc"> </tspan><tspan class="value">                         Matplotlib </tspan>
+<!--<tspan x="220" y="190" class="cc">. </tspan><tspan class="key">Languages</tspan>:<tspan class="cc"> </tspan><tspan class="value"> Python · JavaScript · Java · C · C++</tspan>-->
+<tspan x="220" y="210" class="cc">. </tspan><tspan class="key">Databases </tspan>:<tspan class="cc"> </tspan><tspan class="value"> MySQL · PostgreSQL · MongoDB · Pinecone</tspan>
+<tspan x="220" y="230" class="cc">. </tspan><tspan class="key">Technologies </tspan>:<tspan class="cc"> </tspan><tspan class="value"> REST APIs </tspan>
+<tspan x="220" y="250" class="cc">. </tspan><tspan class="key">Tools </tspan>:<tspan class="cc"> </tspan><tspan class="value"> Git · n8n · Postman · Linux</tspan>
+<tspan x="220" y="270" class="cc">. </tspan>
+<tspan x="220" y="290">-</tspan> --------------------------------------------------------------------------------
+<tspan x="220" y="310" class="cc">. </tspan>
+<tspan x="220" y="330" class="cc">. </tspan><tspan class="key">Currently working on </tspan>:<tspan class="cc"> </tspan><tspan class="value"> Scalable AI workflows &amp; agents</tspan>
+<tspan x="220" y="350" class="cc">. </tspan><tspan class="key">Currently learning </tspan>:<tspan class="cc"> </tspan><tspan class="value"> Building backend systems </tspan>
+<tspan x="220" y="370" class="cc">. </tspan>
+<tspan x="220" y="390">- Contact me </tspan> --------------------------------------------------------------------
+<tspan x="220" y="410" class="cc">. </tspan>
+<tspan x="220" y="430" class="cc">. </tspan><tspan class="key">Email </tspan>:<tspan class="cc"> </tspan><tspan class="value"> pragyamvikram@gmail.com</tspan>
+<tspan x="220" y="450" class="cc">. </tspan><tspan class="key">LinkedIn </tspan>:<tspan class="cc"> </tspan><tspan class="value"> pragyamv</tspan>
+<tspan x="220" y="470" class="cc">. </tspan><tspan class="key">Twitter </tspan>:<tspan class="cc"> </tspan><tspan class="value"> pragyamv_</tspan>
 </text>
 </svg>
