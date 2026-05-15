@@ -47,7 +47,7 @@ text, tspan {white-space: pre;}
 <tspan x="220" y="30">Hi, i'm Pragya :) </tspan> ----------------------------------------------------------------
 <tspan x="220" y="50" class="cc">. </tspan>
 <tspan x="220" y="70" class="cc">. </tspan><tspan class="key">College </tspan>:<tspan class="cc"> </tspan><tspan class="value"> AIT, Chikmagalur</tspan>
-<tspan x="220" y="90" class="cc">. </tspan><tspan class="key">Work </tspan>:<tspan class="cc" id="age_data_dots"> </tspan><tspan class="value" id="age_data"> AGILE Transformation Academy</tspan>
+<tspan x="220" y="90" class="cc">. </tspan><tspan class="key">Work </tspan>:<tspan class="cc" id="age_data_dots"> </tspan><tspan class="value" id="age_data">  </tspan>
 <tspan x="220" y="110" class="cc">. </tspan>
 <tspan x="220" y="130" class="cc">. </tspan><tspan class="key">Languages</tspan>:<tspan class="cc"> </tspan><tspan class="value"> Python · JavaScript · Java · C · C++</tspan>
 <tspan x="220" y="150" class="cc">. </tspan><tspan class="key">Frameworks &amp; Libraries </tspan>:<tspan class="cc"> </tspan><tspan class="value"> Django · Pytorch · Pandas · Seaborn · Scikit_learn</tspan>
